@@ -15,9 +15,11 @@ This is a def formal to calcuate the total overtime hours for on montly and year
  Group 3: 32 hours
  Group 4: 32 hours
 
-## Total Monthly Overtime Hours = G1 * G1Employees + 
+## Total Monthly Overtime Hours = 
+                               G1 * G1Employees + 
                                G2 * G2Employees + 
                                G3 * G3Employees +
                                G4 * G4Employees
                                
-## Total Yearly Overtime Hours = Monthly Overtime * 12
+## Total Yearly Overtime Hours = 
+                              Monthly Overtime * 12
